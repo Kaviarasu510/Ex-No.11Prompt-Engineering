@@ -4,8 +4,11 @@ To create a promotional instagram post for a new protein powder name(kingston).i
 # Algorithm: 
 
 Step 1: Define Key Inputs such as product name,key points,product type,target audience(fitness enthusiasts, gym-goers).
+
 Step 2: Generate a Catchy Headline : Highlight a benefit or create intrigue.
+
 Step 3: Add Emojis :Choose emojis related to fitness and power.
+
 Step 4: Select Relevant Hashtags : Product-specific, Industry-standard, Trend-based.
 
 # PROMPT
